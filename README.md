@@ -15,6 +15,6 @@ A collection of cybersecurity resources
 * [Check email headers](https://mxtoolbox.com/)
 * [Malware analysis tool](https://malwareanalysis.tools/)
 * [Have I Been Pwned](https://haveibeenpwned.com/)
-
+* [Find network vulnerabilities - Metasploit](https://www.metasploit.com/download)
 
 
